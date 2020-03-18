@@ -1,3 +1,6 @@
+body {
+  background-color: #fafafa; }
+
 .top-nav {
   display: block;
   height: 75px;
@@ -10,13 +13,32 @@
   box-shadow: 0px 2px 5px #888888; }
 
 .description {
-  margin-top: 100px;
+  margin-top: 80px;
   margin-left: auto;
   margin-right: auto;
   width: 60%;
   height: 300px;
   border-radius: 2px;
   border: 2px rgba(0, 0, 0, 0.37);
-  box-shadow: 0 0 7px solid rgba(0, 0, 0, 0.14); }
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.14);
+  background-color: #fff; }
+
+.inner {
+  display: block;
+  padding-top: 25px;
+  padding-left: 50px;
+  padding-right: 50px; }
+
+.achievements {
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  width: 80%;
+  height: 500px;
+  border-radius: 2px;
+  border: 2px rgba(0, 0, 0, 0.37);
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.14);
+  background-color: #fff; }
 
 /*# sourceMappingURL=stylesheet.css.map */
