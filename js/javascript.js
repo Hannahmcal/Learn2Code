@@ -1,1 +1,3 @@
-var cool
+
+
+// Learning Javascript!
